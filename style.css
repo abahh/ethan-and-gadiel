@@ -1,0 +1,44 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+section {
+    
+   height: 200px;
+   background-color: yellow;
+   padding: 10px;
+
+}
+
+span {
+    display: inline;
+}
+
+a {
+    background-color: red;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    border-top: solid 2px red;
+    border-right: solid 10px green;
+    border-bottom: solid 3px blue;
+    border-left: 1px solid magenta;
+    padding: 10px;
+    margin: 300px auto;
+
+}
+
+#box2 {
+    margin-top: 30px;
+    width: 200px;
+    height: 200px;
+    border: solid 2px rgb(48, 11, 197);
+
+}
